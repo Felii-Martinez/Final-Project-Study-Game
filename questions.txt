@@ -1,0 +1,21 @@
+1,f,What is the capital of Colombia?,Bogota
+1,f,What is the capital of Germany?,Berlin
+1,f,What is the capital of Spain?,Madrid
+1,f,What is the capital of Australia?,Canberraid
+1,f,What is the capital of Poland?, warsaw
+1,f,What is the capital of Denmark?, copenhagen
+1,f,What is the capital of Brazil?, brasilia
+1,f,What is the capital of South Africa?, pretoria
+1,f,What is the capital of New Zealand?, wellington
+1,f,What is the capital of Mexico?, mexico city
+2,m,Immigrants entering the U.S through California had to go through immigration stations on,3,ellis island, alcatraz island, angel island, rhode island
+2,m,What did the pullman strike Haymarket affair and the homestead strike have in common?,3,they were defeats for owners,they were victories for unions,they were marked by violence,they were organized by anarchists
+2,m,Which of the follow BEST describes a negative aspect of industrialism?,1,Work in factories was repetitive and often dangerous, a limited number of factory workers became millionaires, there were more factory workers than agricultural workers
+2,f,What describes a company that completely dominates a particular industry?,monopoly
+2,f,What weapon do labor unionsw use when trying to negotiate with businees oweners fail?, strike
+2,m,A payment demanded of a nation defeated in war by a victorious nation is known as?,3,debt payment,collateral damage, reparation, payback
+3,m,The astronomical Unit is a Unit of Measurement Based on the Average Distance Between What Two Bodies,1,The Earth and the Sun,The Earth and the Moon,The Moon and another Moon,The Moon and an Astroid,The Sun and another Planet
+3,m,What general Name is given to Natural Satellites,2,Sun,Moon,satellite_alpha,satellite_delta
+3,m,Humans And Chimpanzees Share Roughly How Much DNA?,1,0.98,0.99,100,0.97, 0.96
+3,m,What is the Heaviest Organ In The Human Body?,3,Heart,Lung,Liver,Brain, Kidneys
+3,m,What is the only Planet that spins clockwise?,2,Earth,Venus,Mars,Jupiter
