@@ -3,7 +3,7 @@
     the questions and get their highscore. 
     In order to run this program you will next a questions.txt file.
     This file will have the questions in the correct format (level,type,questions,answer)
-    Example Fill In The Blank: 1,f,What is the capital of Colombia?,Bogota
+    Example Fill In The Blank: 1,f,What is the capital of Colombia?, Bogota
     Example Multiple Choice: 2,m,Immigrants entering the U.S through California had to go through 
                              immigration stations on,3,ellis island, alcatraz island, angel island, rhode island
 Driver: Felipe Martinez
